@@ -1,0 +1,5 @@
+{
+  "name": "UniDoc Converter (Arabic)",
+  "description": "Universal Document to Word Converter with full Arabic RTL and formatting support using Gemini AI.",
+  "requestFramePermissions": []
+}
